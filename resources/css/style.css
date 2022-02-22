@@ -27,6 +27,7 @@ h2 {
 p {
     font-size: 21px;
     color: gray;
+    display: block;
 }
 
 .cta {
